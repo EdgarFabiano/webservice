@@ -1,0 +1,9 @@
+br/net/mirante/calculadora/entity/Usuario.class
+br/net/mirante/calculadora/WebApplication.class
+br/net/mirante/calculadora/entity/Cargo.class
+br/net/mirante/calculadora/ws/CalculadoraServer.class
+br/net/mirante/calculadora/entity/Colaborador.class
+br/net/mirante/calculadora/entity/enums/PermissaoAcesso.class
+br/net/mirante/calculadora/entity/Projeto.class
+br/net/mirante/calculadora/ApplicationContextConfig.class
+br/net/mirante/calculadora/ws/CalculadoraServerImpl.class

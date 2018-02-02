@@ -1,0 +1,8 @@
+spring:
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: create 
+      use-new-id-generator-mappings: true
+  datasource:
+    url: jdbc:h2:./edgardb;AUTO_SERVER=TRUE;CACHE_SIZE=4096;EARLY_FILTER=1;MULTI_THREADED=1;LOCK_TIMEOUT=15000;

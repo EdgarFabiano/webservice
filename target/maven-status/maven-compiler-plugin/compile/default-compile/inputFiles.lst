@@ -1,0 +1,9 @@
+/home/edgar/eclipse-workspace/calculadora/src/main/java/br/net/mirante/calculadora/WebApplication.java
+/home/edgar/eclipse-workspace/calculadora/src/main/java/br/net/mirante/calculadora/entity/enums/PermissaoAcesso.java
+/home/edgar/eclipse-workspace/calculadora/src/main/java/br/net/mirante/calculadora/ws/CalculadoraServer.java
+/home/edgar/eclipse-workspace/calculadora/src/main/java/br/net/mirante/calculadora/entity/Projeto.java
+/home/edgar/eclipse-workspace/calculadora/src/main/java/br/net/mirante/calculadora/entity/Colaborador.java
+/home/edgar/eclipse-workspace/calculadora/src/main/java/br/net/mirante/calculadora/ApplicationContextConfig.java
+/home/edgar/eclipse-workspace/calculadora/src/main/java/br/net/mirante/calculadora/entity/Cargo.java
+/home/edgar/eclipse-workspace/calculadora/src/main/java/br/net/mirante/calculadora/entity/Usuario.java
+/home/edgar/eclipse-workspace/calculadora/src/main/java/br/net/mirante/calculadora/ws/CalculadoraServerImpl.java
